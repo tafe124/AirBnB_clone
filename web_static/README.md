@@ -1,1 +1,1 @@
-** Web Static AirBnB
+This is my new project
